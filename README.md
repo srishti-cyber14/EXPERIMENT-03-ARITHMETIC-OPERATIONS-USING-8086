@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17-11-2026
+## NAME: SRISHTI THOTAPALLI
+## ROLL NUMBER: RA2511030010319
+## DEPARTMENT: CSE CYBER SECURITY 
 
 ---
 
@@ -105,6 +105,8 @@ HLT
 
 **Result:** 05H + 03H = 08H.
 
+
+
 ## EXPERIMENT 2: SUBTRACTION
 
 ### AIM:
@@ -134,6 +136,8 @@ HLT
 | BL | 04H |
 
 **Result:** 09H - 04H = 05H.
+
+
 
 ## EXPERIMENT 3: MULTIPLICATION
 
@@ -165,6 +169,8 @@ HLT
 | AX | 0014H |
 
 **Result:** 05H × 04H = 14H.
+
+
 
 ## EXPERIMENT 4: DIVISION
 
@@ -203,25 +209,26 @@ HLT
 
 Upload the addition program execution screenshot here.
 
-![Addition Output](img/addition.png)
+<img width="743" height="256" alt="image" src="https://github.com/user-attachments/assets/4374f811-f54c-4e2c-869c-fbf4a541c991" />
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+<img width="382" height="425" alt="image" src="https://github.com/user-attachments/assets/28c41912-348d-4dad-8130-0efe9afadd04" />
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+<img width="420" height="373" alt="image" src="https://github.com/user-attachments/assets/ffbea084-1665-42fc-8293-fc5aa2904112" />
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+<img width="377" height="342" alt="image" src="https://github.com/user-attachments/assets/9e14f807-5a0f-44a6-a36a-a665fc811d75" />
+
 
 ## RESULT:
 
